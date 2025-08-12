@@ -1,14 +1,14 @@
 {
-  "name": "ISLAMICK BOT",
+  "name": "CYBER_BOT _SOBHAN",
   "version": "10.1.1",
-  "description": "made by 𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_☢️",
+  "description": "made by  CYBER_BOT _SOBHAN",
   "main": "Cyber.js",
   "engines": {
       "node": "20.x",
       "npm": "10.0.0"
   },
   "scripts": {
-      "start": "node Ullash.js",
+      "start": "node Sobhan.js",
       "login": "node login",
       "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
   },
